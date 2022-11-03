@@ -1,4 +1,4 @@
-# Cyclistic_insights - Insight Project
+# Cyclistic - Insight Project
 
 
 ## Conhecendo o Negócio:
