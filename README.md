@@ -141,7 +141,9 @@ _______________
 _______________
 
 #### H3. No feriado de São Patricio o volume de usuarios aumentaram  
-**Falso.**  O Numero de usuários caiu mais de 60% comparando com o melhor dia sem feriado. O dia de São Patricio é comemorado dia 17 de março.
+**Falso.**  O Numero de usuários caiu mais de 60% comparando com o melhor dia sem feriado. 
+Nesse mês de março o dia 8 teve um pico de usuários atipico, onde ocorreu uma carreata sobre o dia internacional da mulher.
+_______________
 
 #### H4. No inverno os depositos de bikes no centro são mais frequentes por usuarios anuais.
 **Verdade.**  Maior parte dos dados está desconhecido. Mas a maioria prefere depositar as bikes na Canal St & Adams St, localização de vários restaurantes e do principal metrô (chicago Union Station).
