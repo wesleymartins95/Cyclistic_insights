@@ -152,7 +152,7 @@ _______________
 **Verdadeiro.** A porcentangem de usuários aumentou 27% nos finais de semana.
 _______________
 #### H6.A cada mês há um aumento de 10% de usuários casuais.  
-**Falso.**  A porcentagem de clientes por mês é muito váriavel. Em destaque o mês de março que teve um pico de usuários casuais. O motivo atípico é pela carreata do dia internacional da mulher.
+**Falso.**  A porcentagem de clientes por mês é muito váriavel e não possui padrões.
 _______________
 #### H7. Qual a diferenca de horarios entre usuarios, considerando dia, tarde e noite.  
 O horário de pico dos membros anuais é as 8h, 17h e 19h. 
