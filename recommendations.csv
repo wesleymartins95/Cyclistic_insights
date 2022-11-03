@@ -1,0 +1,418 @@
+index,ride_id,rideable_type,user_type,day,month,type_week,season,trip_start_hour,start_station_name,start_user_total,end_station_name,end_user_total
+20,3479141FF24AD595,docked_bike,casual,16,1,weekday,winter,17,Unknown,33154,Unknown,41092
+33,CDA4546AFB6F34F5,docked_bike,casual,5,1,weekend,winter,13,Streeter Dr & Grand Ave,25621,Streeter Dr & Grand Ave,28139
+152,69A8CB6748CA2DB0,docked_bike,casual,22,1,weekday,winter,15,Lake Shore Dr & Monroe St,19502,Millennium Park,19010
+157,1DD6245D8E796F48,docked_bike,casual,29,1,weekday,winter,22,Millennium Park,18144,Lake Shore Dr & Monroe St,18833
+189,7C3CF816107BE767,docked_bike,casual,20,1,weekday,winter,10,Theater on the Lake,14411,Theater on the Lake,16242
+190,6C2A73560288FFFA,docked_bike,casual,17,1,weekday,winter,17,Michigan Ave & Oak St,13039,Lake Shore Dr & North Blvd,13542
+191,8504E5A7AF4F7036,docked_bike,casual,22,1,weekday,winter,16,Lake Shore Dr & North Blvd,12603,Michigan Ave & Oak St,13431
+194,1F27EDB7492AC2E1,docked_bike,casual,3,1,weekday,winter,14,Indiana Ave & Roosevelt Rd,12584,Indiana Ave & Roosevelt Rd,12532
+234,BC608BC10D868760,docked_bike,casual,27,1,weekday,winter,16,Michigan Ave & Lake St,10889,Michigan Ave & Lake St,10411
+241,DF1928D0565EC7CC,docked_bike,casual,2,1,weekday,winter,16,Clark St & Elm St,10826,Clark St & Elm St,10241
+246,DC4A76AC02024226,docked_bike,casual,15,1,weekday,winter,8,Michigan Ave & Washington St,9974,Michigan Ave & Washington St,9919
+283,B2149D0B7761FC44,docked_bike,casual,12,1,weekend,winter,14,Buckingham Fountain,9480,Clark St & Lincoln Ave,9620
+300,F84A6437803B489B,docked_bike,casual,8,1,weekday,winter,8,Shedd Aquarium,9460,Wabash Ave & Grand Ave,9469
+371,83149CB69EB525D9,docked_bike,casual,27,1,weekday,winter,16,Clark St & Lincoln Ave,9386,Wells St & Concord Ln,9228
+394,9B8C1D67FEAE6B64,docked_bike,casual,16,1,weekday,winter,22,Wells St & Concord Ln,9170,Buckingham Fountain,8919
+419,1B84D5229E5B30CB,docked_bike,casual,14,1,weekday,winter,11,Michigan Ave & 8th St,9136,Fairbanks Ct & Grand Ave,8836
+425,2AFA26B61E7EADD7,docked_bike,casual,3,1,weekday,winter,8,Clark St & Armitage Ave,9127,Clark St & Armitage Ave,8824
+437,15FC34B6463C8179,docked_bike,casual,28,1,weekday,winter,10,Wabash Ave & Grand Ave,9101,Michigan Ave & 8th St,8749
+444,3A76482F8ECF68DC,docked_bike,casual,6,1,weekday,winter,18,Columbus Dr & Randolph St,8736,Wabash Ave & Roosevelt Rd,8675
+502,1C14749756D36813,docked_bike,casual,25,1,weekend,winter,14,Fairbanks Ct & Grand Ave,8310,Lake Shore Dr & Belmont Ave,8515
+564,9DFB5EB1EE6978AA,docked_bike,casual,30,1,weekday,winter,15,Lake Shore Dr & Wellington Ave,8296,Lake Shore Dr & Wellington Ave,8450
+574,FDAE18BC66EB5FF3,docked_bike,casual,29,1,weekday,winter,16,Lake Shore Dr & Belmont Ave,8293,Broadway & Barry Ave,8025
+582,65D2E121F26E9CED,docked_bike,casual,9,1,weekday,winter,22,Wabash Ave & Roosevelt Rd,8206,Dearborn St & Erie St,7876
+624,DD25C44F71BAF628,docked_bike,casual,7,1,weekday,winter,19,Wells St & Elm St,8107,Wells St & Evergreen Ave,7823
+638,B71C2753E049D3A3,docked_bike,casual,15,1,weekday,winter,20,Lakeview Ave & Fullerton Pkwy,8010,Lake Shore Dr & Diversey Pkwy,7799
+656,2A5E16B2B6B3AA04,docked_bike,casual,31,1,weekday,winter,17,Dearborn St & Erie St,7965,Lakeview Ave & Fullerton Pkwy,7689
+676,5154775B7709D7D2,docked_bike,casual,31,1,weekday,winter,14,Wells St & Evergreen Ave,7945,Wabash Ave & Wacker Pl,7688
+684,36337E9CA3CD61B5,docked_bike,casual,31,1,weekday,winter,21,Lake Shore Dr & Diversey Pkwy,7682,Shedd Aquarium,7673
+685,4DD3BB3D9DBF1E6C,docked_bike,casual,31,1,weekday,winter,19,Broadway & Barry Ave,7601,Wells St & Elm St,7595
+696,0B6725FF48F9B35D,docked_bike,casual,14,1,weekday,winter,13,Wells St & Huron St,7494,Larrabee St & Webster Ave,7539
+707,F8E3153D74489422,docked_bike,casual,14,1,weekday,winter,8,Dusable Harbor,7485,Wells St & Huron St,7316
+712,9DE76054ABC30EFA,docked_bike,casual,7,1,weekday,winter,14,Larrabee St & Webster Ave,7429,Wilton Ave & Belmont Ave,6958
+736,9FE5594501678FA7,docked_bike,casual,4,1,weekend,winter,15,Wabash Ave & Wacker Pl,7302,Wabash Ave & 9th St,6924
+743,2A7A0A315E5EC6AB,docked_bike,casual,7,1,weekday,winter,12,McClurg Ct & Illinois St,7232,Columbus Dr & Randolph St,6829
+744,4C9E80A954C70FA5,docked_bike,casual,7,1,weekday,winter,15,Wilton Ave & Belmont Ave,6746,McClurg Ct & Illinois St,6698
+750,72B372A58D1DD8E0,docked_bike,casual,11,1,weekend,winter,9,Lake Shore Dr & Ohio St,6702,Dearborn Pkwy & Delaware Pl,6678
+758,35B36F36558A6C45,docked_bike,casual,2,1,weekday,winter,18,Wabash Ave & 9th St,6616,Lake Shore Dr & Ohio St,6668
+810,0A4A4CA7F9E4C3B7,docked_bike,casual,3,1,weekday,winter,11,Dearborn Pkwy & Delaware Pl,6596,Dusable Harbor,6576
+830,5722C2843016C34E,docked_bike,casual,31,1,weekday,winter,15,Lakefront Trail & Bryn Mawr Ave,6519,Stockton Dr & Wrightwood Ave,6504
+856,F4D56ADB2768746C,docked_bike,casual,13,1,weekday,winter,8,Stockton Dr & Wrightwood Ave,6447,LaSalle St & Illinois St,6485
+873,0B0EDAF05C5901A9,docked_bike,casual,22,1,weekday,winter,14,Rush St & Cedar St,6349,State St & Randolph St,6467
+876,667E32295F040ACD,docked_bike,casual,5,1,weekend,winter,16,State St & Randolph St,6320,State St & Kinzie St,6447
+880,6A3BE61E1CEA7662,docked_bike,casual,28,1,weekday,winter,16,Pine Grove Ave & Waveland Ave,6313,Lakefront Trail & Bryn Mawr Ave,6429
+881,D14350216894A3C6,docked_bike,casual,13,1,weekday,winter,19,Desplaines St & Kinzie St,6248,Rush St & Cedar St,6417
+885,6FE89E5BD5067BCA,docked_bike,casual,7,1,weekday,winter,17,LaSalle St & Illinois St,6218,Damen Ave & Pierce Ave,6332
+910,D767BEB6AEFFB9CE,docked_bike,casual,6,1,weekday,winter,21,State St & Kinzie St,6215,St. Clair St & Erie St,6278
+912,FDC45C92BC2D678C,docked_bike,casual,16,1,weekday,winter,22,Adler Planetarium,6159,Pine Grove Ave & Waveland Ave,6113
+926,9589875256329A46,docked_bike,casual,2,1,weekday,winter,13,Montrose Harbor,6040,Sheffield Ave & Waveland Ave,6082
+927,E50F18C4AB2E5C36,docked_bike,casual,4,1,weekend,winter,22,Clark St & Drummond Pl,5996,Halsted St & Roscoe St,6018
+1021,BA00B97CA7A6BD26,docked_bike,casual,30,1,weekday,winter,17,Lincoln Park Conservatory,5978,Clark St & Wrightwood Ave,5995
+1022,CBE29E41BDEBF0F6,docked_bike,casual,27,1,weekday,winter,16,Broadway & Cornelia Ave,5949,Broadway & Cornelia Ave,5970
+1031,8E7BA80EB79CB5C6,docked_bike,casual,14,1,weekday,winter,15,Halsted St & Roscoe St,5874,Adler Planetarium,5931
+1047,94BF3C6FD7DF8652,docked_bike,casual,14,1,weekday,winter,16,Shore Dr & 55th St,5837,Desplaines St & Kinzie St,5894
+1049,7989D6561CC91DC5,docked_bike,casual,3,1,weekday,winter,13,Clark St & Wrightwood Ave,5815,Montrose Harbor,5891
+1050,C8B128915E826489,docked_bike,casual,3,1,weekday,winter,15,Damen Ave & Pierce Ave,5794,Shore Dr & 55th St,5881
+1081,F2105D472D5590A8,docked_bike,casual,1,1,weekday,winter,13,Lincoln Ave & Fullerton Ave,5784,Clark St & Drummond Pl,5861
+1083,46CEBA6C45A3BA2B,docked_bike,casual,14,1,weekday,winter,6,Clark St & Schiller St,5747,Lincoln Park Conservatory,5839
+1127,C6CAA92467955B45,docked_bike,casual,20,1,weekday,winter,12,Michigan Ave & Pearson St,5694,Ashland Ave & Division St,5751
+1142,723D49699578579C,docked_bike,casual,9,1,weekday,winter,17,Wells St & Hubbard St,5689,Lincoln Ave & Fullerton Ave,5704
+1170,AA63711234B80365,docked_bike,casual,18,1,weekend,winter,12,Sheffield Ave & Waveland Ave,5610,Fort Dearborn Dr & 31st St,5606
+1171,BA51C7A57E32236B,docked_bike,casual,18,1,weekend,winter,12,Fort Dearborn Dr & 31st St,5588,Bissell St & Armitage Ave,5448
+1172,9A9878CDF6112426,docked_bike,casual,18,1,weekend,winter,12,St. Clair St & Erie St,5495,Michigan Ave & Pearson St,5389
+1173,E7512887E72E2FB0,docked_bike,casual,18,1,weekend,winter,12,Kingsbury St & Kinzie St,5482,Clark St & Schiller St,5345
+1199,F5B89597FCCA5B28,docked_bike,casual,2,1,weekday,winter,9,Ashland Ave & Division St,5465,Clark St & North Ave,5277
+1208,29C58A8C1B9E703F,docked_bike,casual,7,1,weekday,winter,7,Mies van der Rohe Way & Chestnut St,5435,Mies van der Rohe Way & Chestnut St,5276
+1226,59218DEB65FBF5B4,docked_bike,casual,31,1,weekday,winter,17,Bissell St & Armitage Ave,5282,Southport Ave & Roscoe St,5263
+1267,CB8F8C1F37B9A948,docked_bike,casual,15,1,weekday,winter,17,Rush St & Superior St,5216,Rush St & Superior St,5188
+1289,F797EF71EDB3C62F,docked_bike,casual,23,1,weekday,winter,23,Clark St & North Ave,5177,Green St & Madison St,5178
+1291,9B87EEE7E8ED6D5E,docked_bike,casual,5,1,weekend,winter,14,Clark St & Wellington Ave,4958,Wells St & Hubbard St,5167
+1292,F52D9E97BA0EF0F2,docked_bike,casual,10,1,weekday,winter,7,Southport Ave & Roscoe St,4872,Clark St & Wellington Ave,4976
+1306,3BAB29050D8ADC2E,docked_bike,casual,8,1,weekday,winter,9,Cityfront Plaza Dr & Pioneer Ct,4826,Broadway & Belmont Ave,4948
+1316,E8698AD8AA74138B,docked_bike,casual,28,1,weekday,winter,10,Green St & Madison St,4818,Morgan St & Lake St,4921
+1339,4636260B1B817464,docked_bike,casual,28,1,weekday,winter,8,Clark St & Lake St,4810,Clark St & Newport St,4824
+1344,AA3E5EEA9FE73679,docked_bike,casual,30,1,weekday,winter,12,Pine Grove Ave & Irving Park Rd,4787,Pine Grove Ave & Irving Park Rd,4772
+1394,A5A0B5D8F39C6E93,docked_bike,casual,2,1,weekday,winter,19,Michigan Ave & Jackson Blvd,4766,Green St & Randolph St,4751
+1398,F5A58279EA0FC57F,docked_bike,casual,5,1,weekend,winter,16,Broadway & Belmont Ave,4752,Broadway & Waveland Ave,4748
+1414,0DE0946838DF8636,docked_bike,casual,6,1,weekday,winter,14,Broadway & Waveland Ave,4732,Sheffield Ave & Wellington Ave,4744
+1415,2661F81B4FD747B1,docked_bike,casual,5,1,weekend,winter,14,Clark St & Newport St,4724,Kingsbury St & Kinzie St,4727
+1416,176627A2BD5049EA,docked_bike,casual,30,1,weekday,winter,20,Sheffield Ave & Wellington Ave,4673,Southport Ave & Waveland Ave,4691
+1431,EA5F3FBF8E212F57,docked_bike,casual,31,1,weekday,winter,15,Southport Ave & Waveland Ave,4614,Clark St & Lake St,4564
+1436,C9D6198FC262336B,docked_bike,casual,2,1,weekday,winter,9,Federal St & Polk St,4614,Wood St & Milwaukee Ave,4512
+1452,47FCB16D7CAE1AEA,docked_bike,casual,2,1,weekday,winter,14,Sheffield Ave & Wrightwood Ave,4585,Federal St & Polk St,4503
+1459,BDDC9FFCC61F7204,docked_bike,casual,13,1,weekday,winter,8,McClurg Ct & Erie St,4561,Sheffield Ave & Webster Ave,4473
+1463,5CCCD1316E6BBDAA,docked_bike,casual,3,1,weekday,winter,14,Cannon Dr & Fullerton Ave,4452,Sheridan Rd & Montrose Ave,4451
+1465,9B53B178AD02A6B8,docked_bike,casual,5,1,weekend,winter,15,Sheffield Ave & Webster Ave,4452,Cannon Dr & Fullerton Ave,4437
+1487,156A5AA08FBBD752,docked_bike,casual,27,1,weekday,winter,18,Green St & Randolph St,4377,Halsted St & Dickens Ave,4385
+1490,2BB9BB4A09DE85D8,docked_bike,casual,2,1,weekday,winter,16,Clark St & Grace St,4362,McClurg Ct & Erie St,4378
+1496,244AAAEC6FB9242C,docked_bike,casual,9,1,weekday,winter,21,Wilton Ave & Diversey Pkwy,4287,Michigan Ave & Jackson Blvd,4289
+1552,20823E2E3B1030ED,docked_bike,casual,27,1,weekday,winter,11,Morgan St & Lake St,4273,Sheffield Ave & Wrightwood Ave,4284
+1553,6F4639CED2E029CD,docked_bike,casual,27,1,weekday,winter,15,Sheridan Rd & Montrose Ave,4264,Clark St & Grace St,4273
+1621,AF60FD2D1AF556D9,docked_bike,casual,13,1,weekday,winter,8,Halsted St & Wrightwood Ave,4256,Mies van der Rohe Way & Chicago Ave,4236
+1639,64A313DA16ACC151,docked_bike,casual,3,1,weekday,winter,21,Daley Center Plaza,4179,Kedzie Ave & Milwaukee Ave,4231
+1771,85984BABED93D667,docked_bike,casual,31,1,weekday,winter,18,Franklin St & Jackson Blvd,4073,Cityfront Plaza Dr & Pioneer Ct,4088
+1807,0603B559E82A4232,docked_bike,casual,5,1,weekend,winter,14,Ritchie Ct & Banks St,4052,Milwaukee Ave & Grand Ave,4079
+1809,7B1065EA8B4B2B4A,docked_bike,casual,24,1,weekday,winter,22,Wood St & Milwaukee Ave,4050,Wilton Ave & Diversey Pkwy,4076
+1822,1D4AAA3CA5535751,docked_bike,casual,3,1,weekday,winter,13,Halsted St & Dickens Ave,4049,Halsted St & Wrightwood Ave,4033
+1828,51B6CAC89373CB55,docked_bike,casual,20,1,weekday,winter,15,Michigan Ave & 14th St,4046,Ritchie Ct & Banks St,3966
+1829,2AD0F3C3571AADA3,docked_bike,casual,3,1,weekday,winter,12,Milwaukee Ave & Grand Ave,4031,Michigan Ave & 14th St,3956
+1863,1859AC8F4B51BE58,docked_bike,casual,5,1,weekend,winter,18,Clark St & Chicago Ave,3977,Kingsbury St & Erie St,3899
+1866,4981920FB9B295DD,docked_bike,casual,4,1,weekend,winter,10,Wabash Ave & Adams St,3952,LaSalle Dr & Huron St,3885
+1894,EDF1558A0B474390,docked_bike,casual,30,1,weekday,winter,15,Kingsbury St & Erie St,3945,Wabash Ave & Adams St,3851
+1938,461ED73F2664E288,docked_bike,casual,17,1,weekday,winter,7,LaSalle Dr & Huron St,3944,Clarendon Ave & Junior Ter,3707
+1971,01486AD36D07F239,docked_bike,casual,4,1,weekend,winter,9,Kedzie Ave & Milwaukee Ave,3940,Dearborn St & Monroe St,3683
+1986,4584924A7A8E2D50,docked_bike,casual,10,1,weekday,winter,17,Marine Dr & Ainslie St,3931,Marine Dr & Ainslie St,3675
+1999,B07B9F84E12D6975,docked_bike,casual,6,1,weekday,winter,17,Sedgwick St & North Ave,3879,Sedgwick St & North Ave,3639
+2000,28D9E2A6654FA3D1,docked_bike,casual,6,1,weekday,winter,16,Mies van der Rohe Way & Chicago Ave,3862,Daley Center Plaza,3638
+2001,0DF8E888EF166A7F,docked_bike,casual,2,1,weekday,winter,9,Clinton St & Madison St,3824,Clark St & Chicago Ave,3626
+2128,DD60D55AEB74FC31,docked_bike,casual,25,1,weekend,winter,23,Field Blvd & South Water St,3824,Racine Ave & Belmont Ave,3625
+2143,62069964B93CF51D,docked_bike,casual,4,1,weekend,winter,9,Dearborn St & Monroe St,3803,Halsted St & Clybourn Ave,3585
+2147,201478F810FBEA11,docked_bike,casual,1,1,weekday,winter,13,Clarendon Ave & Junior Ter,3636,Michigan Ave & 18th St,3490
+2153,43077282E7BB81B8,docked_bike,casual,27,1,weekday,winter,18,Clark St & Randolph St,3629,Milwaukee Ave & Wabansia Ave,3481
+2160,BA3BEA563D14DBF7,docked_bike,casual,7,1,weekday,winter,13,Michigan Ave & Madison St,3604,State St & Harrison St,3478
+2187,F84224BE110AA476,docked_bike,casual,31,1,weekday,winter,20,State St & Pearson St,3594,State St & Pearson St,3452
+2214,24C2A119529862B9,docked_bike,casual,5,1,weekend,winter,15,Racine Ave & Belmont Ave,3574,Michigan Ave & Madison St,3407
+2216,3A174B34A3480DAA,docked_bike,casual,1,1,weekday,winter,0,Halsted St & Clybourn Ave,3533,Field Blvd & South Water St,3388
+2217,D1F476629D207674,docked_bike,casual,28,1,weekday,winter,15,Honore St & Division St,3441,Clark St & Randolph St,3349
+2223,EFAA41D10E02A518,docked_bike,casual,8,1,weekday,winter,13,Michigan Ave & 18th St,3405,Burnham Harbor,3340
+2292,DDA313FF43F76585,docked_bike,casual,22,1,weekday,winter,15,Sedgwick St & Webster Ave,3376,Clinton St & Madison St,3327
+2301,DA4DF0F5C3F6D2B2,docked_bike,casual,4,1,weekend,winter,12,Sheridan Rd & Irving Park Rd,3372,Franklin St & Jackson Blvd,3305
+2304,67134BC02A0BB1AC,docked_bike,casual,7,1,weekday,winter,18,Franklin St & Illinois St,3359,Stetson Ave & South Water St,3294
+2306,09C71AA9FE324BBC,docked_bike,casual,12,1,weekend,winter,19,Franklin St & Lake St,3343,Damen Ave & Cortland St,3288
+2307,30C9542687376610,docked_bike,casual,1,1,weekday,winter,13,Broadway & Sheridan Rd,3339,Honore St & Division St,3275
+2329,F6971F9DA57C465F,docked_bike,casual,30,1,weekday,winter,11,Wells St & Polk St,3332,Sedgwick St & Webster Ave,3193
+2355,C3F692CBAFE7AFDF,docked_bike,casual,7,1,weekday,winter,8,Milwaukee Ave & Wabansia Ave,3328,Wells St & Polk St,3173
+2396,20F7C8D703FC1E6C,docked_bike,casual,23,1,weekday,winter,12,Stetson Ave & South Water St,3269,Franklin St & Illinois St,3125
+2404,4E2FAD22C64955EE,docked_bike,casual,16,1,weekday,winter,17,State St & Harrison St,3262,Franklin St & Lake St,3116
+2414,3D58288C86E542A7,docked_bike,casual,26,1,weekend,winter,14,Sheffield Ave & Fullerton Ave,3226,Broadway & Sheridan Rd,3115
+2436,9A9EF6B24AE9EA5D,docked_bike,casual,9,1,weekday,winter,18,Clarendon Ave & Gordon Ter,3214,Cornell Ave & Hyde Park Blvd,3111
+2437,ACCCACBB9CF5D75C,docked_bike,casual,6,1,weekday,winter,2,Broadway & Granville Ave,3213,Sheridan Rd & Irving Park Rd,3097
+2438,7B2AC046054B96F3,docked_bike,casual,26,1,weekend,winter,10,Burnham Harbor,3200,Lakefront Trail & Wilson Ave,3092
+2519,9505BEEB9CB1F92A,docked_bike,casual,16,1,weekday,winter,10,Damen Ave & Cortland St,3197,Broadway & Granville Ave,3090
+2556,9DF8DC02A49F802E,docked_bike,casual,10,1,weekday,winter,11,Lincoln Ave & Diversey Pkwy,3135,Clarendon Ave & Gordon Ter,3088
+2557,1BA4FF5AA9E09D51,docked_bike,casual,10,1,weekday,winter,13,Cornell Ave & Hyde Park Blvd,3113,Lincoln Ave & Diversey Pkwy,3045
+2568,2F5AC75EE9CEA56F,docked_bike,casual,2,1,weekday,winter,0,Franklin St & Monroe St,3075,Clark St & Berwyn Ave,3021
+2614,900AAA18DC065579,docked_bike,casual,1,1,weekday,winter,18,California Ave & Milwaukee Ave,3065,Peoria St & Jackson Blvd,3016
+2624,2FD191985F7D60E0,docked_bike,casual,27,1,weekday,winter,15,Lakefront Trail & Wilson Ave,3035,Larrabee St & Division St,2980
+2637,FECA97E1BF721AB0,docked_bike,casual,28,1,weekday,winter,16,Peoria St & Jackson Blvd,2988,California Ave & Milwaukee Ave,2967
+2645,05B36C6A396F4ABC,docked_bike,casual,3,1,weekday,winter,15,Clark St & Berwyn Ave,2949,Greenview Ave & Fullerton Ave,2929
+2646,279547198C4FDD04,docked_bike,casual,3,1,weekday,winter,13,Clinton St & Lake St,2940,Kimbark Ave & 53rd St,2899
+2706,0E0CB4892C8A7DA3,docked_bike,casual,25,1,weekend,winter,9,Southport Ave & Wellington Ave,2928,Sheffield Ave & Kingsbury St,2875
+2718,F1D2A6F141133FB3,docked_bike,casual,6,1,weekday,winter,18,Michigan Ave & Ida B Wells Dr,2912,Southport Ave & Wellington Ave,2862
+2764,F70C871ECC88DFE9,docked_bike,casual,28,1,weekday,winter,14,Desplaines St & Randolph St,2903,Desplaines St & Randolph St,2838
+2822,73CB2DA2DE8E8B23,docked_bike,casual,19,1,weekend,winter,15,Kimbark Ave & 53rd St,2895,Broadway & Wilson Ave,2832
+2826,869B26EEDEFDF774,docked_bike,casual,19,1,weekend,winter,18,Franklin St & Chicago Ave,2837,Clinton St & Lake St,2810
+2830,8678E493A109CD07,docked_bike,casual,3,1,weekday,winter,10,Larrabee St & Division St,2781,Michigan Ave & Ida B Wells Dr,2736
+2846,F4631EC58469E690,docked_bike,casual,8,1,weekday,winter,18,Orleans St & Merchandise Mart Plaza,2761,Franklin St & Monroe St,2723
+2881,54AFFE0F28329501,docked_bike,casual,29,1,weekday,winter,19,Larrabee St & Armitage Ave,2709,Damen Ave & Chicago Ave,2719
+2931,E85037564B4FAC0D,docked_bike,casual,31,1,weekday,winter,17,Broadway & Wilson Ave,2691,Southport Ave & Belmont Ave,2695
+2986,08FC819B80D14DE6,docked_bike,casual,1,1,weekday,winter,22,Ashland Ave & Blackhawk St,2689,Ashland Ave & Blackhawk St,2674
+2987,DF81DCB133CA69A3,docked_bike,casual,1,1,weekday,winter,19,Greenview Ave & Fullerton Ave,2681,Southport Ave & Wrightwood Ave,2673
+2988,C11FD88653EA2971,docked_bike,casual,2,1,weekday,winter,14,Calumet Ave & 18th St,2673,Sheffield Ave & Willow St,2667
+2989,FEA8355BCE3A075F,docked_bike,casual,2,1,weekday,winter,16,Southport Ave & Wrightwood Ave,2663,Lake Park Ave & 35th St,2664
+3006,CAF2CEB799452E39,docked_bike,casual,7,1,weekday,winter,15,Halsted St & Willow St,2652,Burling St (Halsted) & Diversey Pkwy (Temp),2661
+3023,9DECA046EF489495,docked_bike,casual,7,1,weekday,winter,10,Southport Ave & Belmont Ave,2649,Lake Park Ave & 53rd St,2653
+3048,CE96F4A57DB0ECD5,docked_bike,casual,3,1,weekday,winter,10,Lake Park Ave & 35th St,2604,Dayton St & North Ave,2646
+3053,ECA52965FC282BA8,docked_bike,casual,18,1,weekend,winter,13,Burling St (Halsted) & Diversey Pkwy (Temp),2602,Calumet Ave & 18th St,2600
+3122,DFE6BEF39DEEE90B,docked_bike,casual,30,1,weekday,winter,17,Sheffield Ave & Kingsbury St,2592,Larrabee St & Armitage Ave,2574
+3123,8E2376403AF7EA80,docked_bike,casual,30,1,weekday,winter,12,Rush St & Hubbard St,2586,Paulina Ave & North Ave,2560
+3124,61E61084E0185E3A,docked_bike,casual,30,1,weekday,winter,19,Dayton St & North Ave,2583,Lincoln Ave & Belmont Ave,2532
+3125,30755398A868C8F3,docked_bike,casual,30,1,weekday,winter,23,State St & Van Buren St,2581,Eckhart Park,2524
+3126,B64FCEF8A98E6EDB,docked_bike,casual,30,1,weekday,winter,21,Paulina Ave & North Ave,2532,Broadway & Thorndale Ave,2516
+3190,548E7317672E1745,docked_bike,casual,29,1,weekday,winter,18,Wells St & Walton St,2515,Clifton Ave & Armitage Ave,2501
+3193,E114497F3D52B78C,docked_bike,casual,10,1,weekday,winter,19,Orleans St & Chestnut St (NEXT Apts),2500,Lincoln Ave & Roscoe St,2499
+3195,EE0F8504C98D0B11,docked_bike,casual,14,1,weekday,winter,6,Damen Ave & Chicago Ave,2491,Sheffield Ave & Fullerton Ave,2493
+3201,C9C6AD6F00BCC582,docked_bike,casual,7,1,weekday,winter,17,Wabash Ave & 16th St,2473,Halsted St & Willow St,2492
+3281,B8E07C4CF089B2AE,docked_bike,casual,5,1,weekend,winter,15,Sheridan Rd & Buena Ave,2472,Rush St & Hubbard St,2464
+3282,8E1C70445981942F,docked_bike,casual,31,1,weekday,winter,13,Lake Park Ave & 53rd St,2468,Franklin St & Chicago Ave,2446
+3298,5A03A6DB4E767F1A,docked_bike,casual,28,1,weekday,winter,13,Lincoln Ave & Belmont Ave,2466,Desplaines St & Jackson Blvd,2437
+3310,ED418FE5085D339C,docked_bike,casual,23,1,weekday,winter,20,Clifton Ave & Armitage Ave,2466,Broadway & Berwyn Ave,2413
+3420,8735ED73FDCAD5BF,docked_bike,casual,5,1,weekend,winter,12,Eckhart Park,2433,Racine Ave & Fullerton Ave,2387
+3452,EFBC7D1F6F36E3FD,docked_bike,casual,30,1,weekday,winter,19,Sheffield Ave & Willow St,2433,Orleans St & Chestnut St (NEXT Apts),2376
+3454,C8CAA5A7923A1152,docked_bike,casual,31,1,weekday,winter,15,Sedgwick St & Huron St,2432,Noble St & Milwaukee Ave,2365
+3470,F8ACC5664133ECB2,docked_bike,casual,21,1,weekday,winter,14,Racine Ave & Fullerton Ave,2408,Broadway & Argyle St,2361
+3473,A00AFF2CF3298741,docked_bike,casual,10,1,weekday,winter,16,Lincoln Ave & Roscoe St,2407,Sheridan Rd & Loyola Ave,2360
+3495,F3B699D3D609E9B7,docked_bike,casual,16,1,weekday,winter,12,Desplaines St & Jackson Blvd,2402,Sheridan Rd & Buena Ave,2337
+3503,E27E8158C422917A,docked_bike,casual,3,1,weekday,winter,17,Canal St & Adams St,2326,State St & Van Buren St,2303
+3527,00B668D4159C26EA,docked_bike,casual,5,1,weekend,winter,11,Broadway & Thorndale Ave,2322,Ogden Ave & Race Ave,2294
+3528,3.64484E+15,docked_bike,casual,5,1,weekend,winter,11,Noble St & Milwaukee Ave,2306,Orleans St & Merchandise Mart Plaza,2277
+3529,AB46E39F21D095F7,docked_bike,casual,6,1,weekday,winter,11,Broadway & Berwyn Ave,2304,Wentworth Ave & Cermak Rd,2276
+3586,4DCCBD3C1DDBF5FE,docked_bike,casual,7,1,weekday,winter,17,Broadway & Argyle St,2299,Wabash Ave & 16th St,2259
+3619,C630B1FA83875EDC,docked_bike,casual,28,1,weekday,winter,7,Sheridan Rd & Loyola Ave,2266,Sedgwick St & Huron St,2255
+3644,11AA94EFB21157F7,docked_bike,casual,15,1,weekday,winter,6,Damen Ave & Division St,2255,Ogden Ave & Chicago Ave,2246
+3651,FF38E6DE7F750CDA,docked_bike,casual,27,1,weekday,winter,17,Ogden Ave & Chicago Ave,2246,Broadway & Ridge Ave,2227
+3690,0C1872865C5A7C21,docked_bike,casual,30,1,weekday,winter,17,Broadway & Ridge Ave,2235,Sangamon St & Washington Blvd,2223
+3700,5F2BE358AE542FC2,docked_bike,casual,13,1,weekday,winter,14,Clarendon Ave & Leland Ave,2224,Clarendon Ave & Leland Ave,2213
+3738,F70D328A6CB4DFCA,docked_bike,casual,10,1,weekday,winter,7,Field Museum,2219,Loomis St & Lexington St,2208
+3739,86D40DF980FD16CF,docked_bike,casual,10,1,weekday,winter,7,Ravenswood Ave & Lawrence Ave,2210,Clark St & Winnemac Ave,2199
+3763,5F6DCD62033B4949,docked_bike,casual,20,1,weekday,winter,5,Carpenter St & Huron St,2188,LaSalle St & Washington St,2184
+3820,2C6F2B08BD6BF993,docked_bike,casual,6,1,weekday,winter,17,Ogden Ave & Race Ave,2177,Aberdeen St & Randolph St,2128
+3837,08EFEFA7AB43D856,docked_bike,casual,21,1,weekday,winter,17,Larrabee St & Kingsbury St,2171,Clark St & Leland Ave,2116
+3860,0BB574A7D49876CC,docked_bike,casual,25,1,weekend,winter,18,Aberdeen St & Jackson Blvd,2120,Clinton St & Roosevelt Rd,2102
+3868,7B463EBEE3DEFF0A,docked_bike,casual,19,1,weekend,winter,20,Clark St & 9th St (AMLI),2118,Damen Ave & Division St,2071
+3875,0E721516E890C131,docked_bike,casual,2,1,weekday,winter,16,Loomis St & Lexington St,2110,Clark St & 9th St (AMLI),2069
+3876,1C75952B5FE25618,docked_bike,casual,26,1,weekend,winter,13,LaSalle St & Washington St,2083,Aberdeen St & Jackson Blvd,2051
+3901,6B4DCA32D00CA9FF,docked_bike,casual,29,1,weekday,winter,15,Western Ave & Winnebago Ave,2080,Wells St & Walton St,2040
+3902,D5575F5C7A9FA702,docked_bike,casual,11,1,weekend,winter,11,Ellis Ave & 60th St,2069,Ravenswood Ave & Lawrence Ave,2029
+3924,4529977C4C28B930,docked_bike,casual,5,1,weekend,winter,16,Sangamon St & Washington Blvd,2056,Ashland Ave & Wrightwood Ave,2018
+3952,DDCF9294575FB3F6,docked_bike,casual,22,1,weekday,winter,14,Clark St & Leland Ave,2054,Western Ave & Winnebago Ave,1991
+3953,908E4385A461019C,docked_bike,casual,31,1,weekday,winter,7,Aberdeen St & Randolph St,2037,Carpenter St & Huron St,1965
+3954,C260A7A5B874111F,docked_bike,casual,30,1,weekday,winter,17,Marshfield Ave & Cortland St,2029,Canal St & Adams St,1953
+3958,554DA7C799D0E74C,docked_bike,casual,13,1,weekday,winter,7,Jefferson St & Monroe St,2029,Field Museum,1951
+3965,DEDE01CB493E6E0A,docked_bike,casual,29,1,weekday,winter,9,Blackstone Ave & Hyde Park Blvd,2000,Franklin St & Adams St (Temp),1929
+3970,AD83B6EE2FB34889,docked_bike,casual,8,1,weekday,winter,16,Clark St & Winnemac Ave,1999,May St & Taylor St,1911
+4115,E6101297FF568EE1,docked_bike,casual,30,1,weekday,winter,14,LaSalle St & Jackson Blvd,1988,Ellis Ave & 60th St,1909
+4170,92956DFE379F83CA,docked_bike,casual,30,1,weekday,winter,12,Delano Ct & Roosevelt Rd,1971,Fairbanks St & Superior St,1904
+4205,2CACAC7344954F04,docked_bike,casual,15,1,weekday,winter,17,Franklin St & Adams St (Temp),1956,Ashland Ave & Chicago Ave,1869
+4208,AC9FA69D6536F59B,docked_bike,casual,22,1,weekday,winter,12,Wentworth Ave & Cermak Rd,1913,MLK Jr Dr & 29th St,1866
+4213,273614F00565896F,docked_bike,casual,7,1,weekday,winter,14,Ashland Ave & Wrightwood Ave,1907,Logan Blvd & Elston Ave,1864
+4226,A9CC0946D983B9D3,docked_bike,casual,5,1,weekend,winter,16,MLK Jr Dr & 29th St,1907,Blackstone Ave & Hyde Park Blvd,1859
+4295,3F2AF9BCCBB42324,docked_bike,casual,14,1,weekday,winter,10,Western Ave & Walton St,1900,Humboldt Blvd & Armitage Ave,1855
+4305,21362774719A982D,docked_bike,casual,22,1,weekday,winter,20,Lake Park Ave & 56th St,1899,Museum of Science and Industry,1855
+4312,CFA08927AC59EEB5,docked_bike,casual,17,1,weekday,winter,14,Humboldt Blvd & Armitage Ave,1890,Delano Ct & Roosevelt Rd,1834
+4315,24381F44B0E2FF6F,docked_bike,casual,22,1,weekday,winter,17,Sheridan Rd & Lawrence Ave,1890,Marshfield Ave & Cortland St,1826
+4316,1F471654EB2A031F,docked_bike,casual,3,1,weekday,winter,12,Dearborn St & Van Buren St,1870,Larrabee St & Kingsbury St,1805
+4340,F0E51635BA9EF841,docked_bike,casual,8,1,weekday,winter,8,Museum of Science and Industry,1870,Lake Park Ave & 56th St,1786
+4349,B2A87B2F28D01C49,docked_bike,casual,2,1,weekday,winter,13,Wacker Dr & Washington St,1852,Ada St & Washington Blvd,1783
+4350,BFEB504C870D285C,docked_bike,casual,19,1,weekend,winter,20,Ashland Ave & Chicago Ave,1836,Dearborn St & Van Buren St,1766
+4364,CF673252B0515DAE,docked_bike,casual,6,1,weekday,winter,12,Clinton St & Roosevelt Rd,1810,Jefferson St & Monroe St,1763
+4365,9EF616D3B630D5D5,docked_bike,casual,6,1,weekday,winter,12,Damen Ave & Thomas St (Augusta Blvd),1794,Sheridan Rd & Lawrence Ave,1737
+4367,6AF0A1B894053EDE,docked_bike,casual,8,1,weekday,winter,14,May St & Taylor St,1789,Western Ave & Walton St,1716
+4394,2AB38B033046D55E,docked_bike,casual,12,1,weekend,winter,19,Canal St & Madison St,1787,Benson Ave & Church St,1704
+4398,D11BBBEA43387657,docked_bike,casual,21,1,weekday,winter,14,Ada St & Washington Blvd,1739,Canal St & Madison St,1691
+4427,94CEDB44C62B8C7A,docked_bike,casual,1,1,weekday,winter,14,Benson Ave & Church St,1711,Southport Ave & Clybourn Ave,1682
+4473,444F086D962DEE4B,docked_bike,casual,20,1,weekday,winter,16,Leavitt St & North Ave,1677,Halsted St & Maxwell St,1670
+4490,FF3E335B89910780,docked_bike,casual,16,1,weekday,winter,15,Southport Ave & Irving Park Rd,1674,Damen Ave & Charleston St,1667
+4511,FE8DB5F462F4360D,docked_bike,casual,5,1,weekend,winter,15,Fairbanks St & Superior St,1673,Damen Ave & Thomas St (Augusta Blvd),1665
+4518,E46D7A1B03CFC431,docked_bike,casual,28,1,weekday,winter,17,Racine Ave & Wrightwood Ave,1664,Clark St & Bryn Mawr Ave,1656
+4519,475A0D32218874CB,docked_bike,casual,12,1,weekend,winter,16,University Ave & 57th St,1657,Ashland Ave & Grand Ave,1654
+4520,73138D3FA1CB76D2,docked_bike,casual,1,1,weekday,winter,12,Clinton St & Washington Blvd,1649,Racine Ave & Wrightwood Ave,1653
+4531,CD73E6A50496D9C1,docked_bike,casual,16,1,weekday,winter,7,Orleans St & Hubbard St,1646,Rhodes Ave & 32nd St,1648
+4548,3CD216FBE0291548,docked_bike,casual,1,1,weekday,winter,13,Damen Ave & Charleston St,1640,Chicago Ave & Sheridan Rd,1645
+4551,95FD8CF02C576A1A,docked_bike,casual,3,1,weekday,winter,17,Campbell Ave & North Ave,1633,Ashland Ave & Grace St,1643
+4565,1E37CF7EFCFFA981,docked_bike,casual,8,1,weekday,winter,10,Ashland Ave & Grace St,1632,Campbell Ave & North Ave,1634
+4604,F2BDBCA1AC980456,docked_bike,casual,30,1,weekday,winter,8,Larrabee St & North Ave,1631,Southport Ave & Irving Park Rd,1615
+4612,18E990CC6FBEBD01,docked_bike,casual,3,1,weekday,winter,13,Aberdeen St & Monroe St,1614,Seeley Ave & Roscoe St,1615
+4613,8539BA222547AA36,docked_bike,casual,29,1,weekday,winter,17,Rhodes Ave & 32nd St,1598,Leavitt St & North Ave,1608
+4761,ED70D0C77513D918,docked_bike,casual,24,1,weekday,winter,12,Chicago Ave & Sheridan Rd,1591,Racine Ave & 18th St,1607
+4764,9FBCF9902E0B5CDF,docked_bike,casual,15,1,weekday,winter,15,Seeley Ave & Roscoe St,1585,University Ave & 57th St,1597
+4765,4436740A747F3060,docked_bike,casual,4,1,weekend,winter,20,Ashland Ave & Grand Ave,1581,Cottage Grove Ave & Oakwood Blvd,1590
+4790,60CEBA376F03B583,docked_bike,casual,15,1,weekday,winter,17,Southport Ave & Clybourn Ave,1568,Wacker Dr & Washington St,1565
+4791,8B2BAACB21E350CB,docked_bike,casual,3,1,weekday,winter,11,Greenview Ave & Diversey Pkwy,1562,Larrabee St & North Ave,1558
+4798,62B17AC65D7C7231,docked_bike,casual,1,1,weekday,winter,16,Halsted St & Maxwell St,1552,Clybourn Ave & Division St,1558
+4856,193DFDA51098766E,docked_bike,casual,16,1,weekday,winter,8,Glenwood Ave & Morse Ave,1531,California Ave & North Ave,1547
+4865,E7AC8B14ABF990E2,docked_bike,casual,24,1,weekday,winter,7,63rd St Beach,1528,Orleans St & Hubbard St,1544
+4893,37E44B0A2A76D087,docked_bike,casual,17,1,weekday,winter,5,Dearborn St & Adams St,1521,Greenview Ave & Diversey Pkwy,1524
+4899,F4A80D8EB2E09921,docked_bike,casual,15,1,weekday,winter,10,Cottage Grove Ave & Oakwood Blvd,1518,Kedzie Ave & Palmer Ct,1507
+4905,442A22F385F37379,docked_bike,casual,22,1,weekday,winter,7,California Ave & North Ave,1514,Glenwood Ave & Morse Ave,1500
+4923,D76B30460FDD1F23,docked_bike,casual,30,1,weekday,winter,8,Clark St & Bryn Mawr Ave,1496,Aberdeen St & Monroe St,1492
+4929,5EAE3CA0EE20F499,docked_bike,casual,17,1,weekday,winter,13,Logan Blvd & Elston Ave,1487,63rd St Beach,1477
+4967,38F453F5023C6B29,docked_bike,casual,3,1,weekday,winter,21,Clybourn Ave & Division St,1482,Western Ave & Leland Ave,1473
+4982,A04E1C885B27B88A,docked_bike,casual,1,1,weekday,winter,13,Ashland Ave & Augusta Blvd,1477,Clinton St & Washington Blvd,1471
+4996,B733CDFB54C785E6,docked_bike,casual,22,1,weekday,winter,17,Leavitt St & Armitage Ave,1474,Dearborn St & Adams St,1466
+5016,8BED689E6265FB85,docked_bike,casual,10,1,weekday,winter,17,Winthrop Ave & Lawrence Ave,1470,California Ave & Division St,1458
+5057,B164C24CD63FA745,docked_bike,casual,14,1,weekday,winter,16,Kedzie Ave & Palmer Ct,1468,Ashland Ave & Augusta Blvd,1457
+5068,0E7839718B0F524C,docked_bike,casual,22,1,weekday,winter,20,Racine Ave & 18th St,1466,Blue Island Ave & 18th St,1439
+5087,D67025019DE2FF93,docked_bike,casual,15,1,weekday,winter,15,Western Ave & Division St,1452,Leavitt St & Armitage Ave,1436
+5096,34985FB946E107CC,docked_bike,casual,22,1,weekday,winter,19,Larrabee St & Oak St,1435,Troy St & North Ave,1434
+5112,63F1C4469020D8F2,docked_bike,casual,26,1,weekend,winter,7,Troy St & North Ave,1418,Winthrop Ave & Lawrence Ave,1431
+5133,F80214A6F80A4AA1,docked_bike,casual,31,1,weekday,winter,15,Sedgwick St & Schiller St,1416,LaSalle St & Jackson Blvd,1412
+5149,B8E21B55499CB691,docked_bike,casual,10,1,weekday,winter,14,Blue Island Ave & 18th St,1402,Lincoln Ave & Waveland Ave,1409
+5182,25C2FF90AB3AC2B5,docked_bike,casual,29,1,weekday,winter,17,Lincoln Ave & Waveland Ave,1388,Damen Ave & Wellington Ave,1405
+5222,A76944F7044518AE,docked_bike,casual,24,1,weekday,winter,17,Lincoln Ave & Belle Plaine Ave,1382,Canal St & Taylor St,1400
+5233,70F1B53D0104F603,docked_bike,casual,10,1,weekday,winter,15,Financial Pl & Ida B Wells Dr,1381,Lake Park Ave & 47th St,1391
+5266,9AED97E7277085DB,docked_bike,casual,27,1,weekday,winter,7,Walsh Park,1380,Sedgwick St & Schiller St,1386
+5267,CE48ADAD9706C41C,docked_bike,casual,26,1,weekend,winter,12,Clark St & Montrose Ave,1379,Western Ave & Division St,1358
+5278,FA9C103732DF9D8B,docked_bike,casual,2,1,weekday,winter,15,Lake Park Ave & 47th St,1377,Morgan St & 18th St,1357
+5279,25D7D0EDEB260F9A,docked_bike,casual,27,1,weekday,winter,16,California Ave & Montrose Ave,1376,Loomis St & Jackson Blvd,1354
+5296,685E017C25FDF7B6,docked_bike,casual,13,1,weekday,winter,19,Canal St & Taylor St,1367,California Ave & Montrose Ave,1352
+5318,2C5E7B82A74E2E49,docked_bike,casual,26,1,weekend,winter,1,Western Ave & Leland Ave,1352,Sheridan Rd & Greenleaf Ave,1343
+5328,EB7EDD3724A11DD1,docked_bike,casual,7,1,weekday,winter,19,Woodlawn Ave & 55th St,1351,Clark St & Montrose Ave,1333
+5330,C216B6D816390F53,docked_bike,casual,8,1,weekday,winter,14,Milwaukee Ave & Rockwell St,1340,Leavitt St & Chicago Ave,1325
+5345,A6197959A0034125,docked_bike,casual,14,1,weekday,winter,20,Lincoln Ave & Sunnyside Ave,1340,Paulina St & 18th St,1321
+5368,014029E4CCBFC5EE,docked_bike,casual,9,1,weekday,winter,17,Loomis St & Jackson Blvd,1334,Lincoln Ave & Sunnyside Ave,1319
+5393,C39D5171DF851BE5,docked_bike,casual,31,1,weekday,winter,12,Ellis Ave & 53rd St,1320,Lincoln Ave & Belle Plaine Ave,1308
+5395,E32FCE18F471723A,docked_bike,casual,28,1,weekday,winter,11,Leavitt St & Chicago Ave,1315,California Ave & Cortez St,1299
+5396,C59C8B31610BF776,docked_bike,casual,28,1,weekday,winter,17,Ellis Ave & 55th St,1309,Woodlawn Ave & 55th St,1299
+5406,47F0FE99E41E5E37,docked_bike,casual,2,1,weekday,winter,13,Damen Ave & Wellington Ave,1309,Larrabee St & Oak St,1298
+5420,33B50358635A495C,docked_bike,casual,30,1,weekday,winter,17,California Ave & Cortez St,1304,California Ave & Francis Pl (Temp),1293
+5517,ECD3BE7419498FA3,docked_bike,casual,4,1,weekend,winter,20,Paulina St & Flournoy St,1295,Financial Pl & Ida B Wells Dr,1287
+5549,2BCD7E8A33685954,docked_bike,casual,9,1,weekday,winter,19,Sheridan Rd & Greenleaf Ave,1293,Albany Ave & Bloomingdale Ave,1284
+5622,F35743B0E9091C74,docked_bike,casual,22,1,weekday,winter,10,Morgan St & 18th St,1289,Damen Ave & Foster Ave,1278
+5681,272A04941E710E4A,docked_bike,casual,14,1,weekday,winter,17,Wolcott (Ravenswood) Ave & Montrose Ave,1288,Central Park Ave & Bloomingdale Ave,1274
+5694,FEFA8C0E2925EDC3,docked_bike,casual,28,1,weekday,winter,13,Wood St & Augusta Blvd,1271,Stave St & Armitage Ave,1266
+5699,08165B9EE234BED8,docked_bike,casual,28,1,weekday,winter,16,900 W Harrison St,1264,Ellis Ave & 55th St,1250
+5700,07DDAF987A349078,docked_bike,casual,28,1,weekday,winter,22,Orleans St & Elm St,1261,Milwaukee Ave & Rockwell St,1250
+5742,62813C3717782841,docked_bike,casual,31,1,weekday,winter,22,Ashland Ave & Wellington Ave,1245,Campbell Ave & Fullerton Ave,1244
+5782,A1EC7D1F46AA5831,docked_bike,casual,2,1,weekday,winter,13,Damen Ave & Foster Ave,1245,Chicago Ave & Washington St,1239
+5811,8406D06B577E2814,docked_bike,casual,17,1,weekday,winter,15,Campbell Ave & Fullerton Ave,1244,Sheridan Rd & Columbia Ave,1238
+5848,A763E09EC395532A,docked_bike,casual,10,1,weekday,winter,8,Sheridan Rd & Columbia Ave,1244,Damen Ave & Clybourn Ave,1230
+5853,DDB67BEE8CB4782E,docked_bike,casual,28,1,weekday,winter,16,Greenwood Ave & 47th St,1239,Ashland Ave & Wellington Ave,1222
+5854,42A908D258C6E0FE,docked_bike,casual,4,1,weekend,winter,14,Albany Ave & Bloomingdale Ave,1232,Orleans St & Elm St,1222
+5888,FC22939691404851,docked_bike,casual,13,1,weekday,winter,17,California Ave & Division St,1228,Walsh Park,1219
+5909,8B1BC879AB7CDC7A,docked_bike,casual,13,1,weekday,winter,22,Stave St & Armitage Ave,1221,Greenwood Ave & 47th St,1215
+5935,1C1C2B48D0DFB101,docked_bike,casual,2,1,weekday,winter,7,California Ave & Francis Pl (Temp),1219,California Ave & Fletcher St,1198
+5944,31A37E668DE8AAA9,docked_bike,casual,17,1,weekday,winter,12,Paulina St & 18th St,1210,California Ave & Altgeld St,1194
+5945,EC4E46ACD2E31A21,docked_bike,casual,17,1,weekday,winter,12,Larrabee St & Menomonee St,1209,900 W Harrison St,1193
+5950,C30EF3C5031515BE,docked_bike,casual,18,1,weekend,winter,12,Central Park Ave & Bloomingdale Ave,1209,Calumet Ave & 21st St,1183
+6042,4B106681341E8C18,docked_bike,casual,14,1,weekday,winter,15,Chicago Ave & Washington St,1171,Ravenswood Ave & Irving Park Rd,1172
+6049,B26CDABADA726583,docked_bike,casual,2,1,weekday,winter,20,South Shore Dr & 71st St,1166,Wolcott (Ravenswood) Ave & Montrose Ave,1160
+6050,BBCF12D52C493C53,docked_bike,casual,4,1,weekend,winter,11,Racine Ave & Randolph St,1166,Wood St & Augusta Blvd,1151
+6056,0C4585A111474750,docked_bike,casual,28,1,weekday,winter,17,Ravenswood Ave & Irving Park Rd,1164,South Shore Dr & 67th St,1145
+6133,92297FF3105C693C,docked_bike,casual,31,1,weekday,winter,13,Clinton St & Jackson Blvd,1154,South Shore Dr & 71st St,1144
+6134,09DDDE3B6BE27EA5,docked_bike,casual,31,1,weekday,winter,13,Canal St & Monroe St,1151,Kosciuszko Park,1140
+6157,739B71F5B3303602,docked_bike,casual,1,1,weekday,winter,21,South Shore Dr & 67th St,1150,Spaulding Ave & Armitage Ave,1140
+6158,25EE72816799DAC8,docked_bike,casual,28,1,weekday,winter,16,Clark St & Ida B Wells Dr,1150,Ellis Ave & 53rd St,1124
+6168,0671B9423A578483,docked_bike,casual,2,1,weekday,winter,13,Damen Ave & Leland Ave,1136,Larrabee St & Menomonee St,1123
+6186,E1999DFD8CFC352E,docked_bike,casual,5,1,weekend,winter,17,Morgan St & Polk St,1132,Ashland Ave & Lake St,1118
+6261,EBFE2E641CD649CC,docked_bike,casual,31,1,weekday,winter,8,Elizabeth (May) St & Fulton St,1124,State St & 19th St,1117
+6292,87365277AFD9F4C0,docked_bike,casual,1,1,weekday,winter,13,State St & 19th St,1109,Elizabeth (May) St & Fulton St,1104
+6322,444743EBBB187555,docked_bike,casual,2,1,weekday,winter,13,California Ave & Altgeld St,1105,Damen Ave & Cullerton St,1103
+6344,E88FA30092B36D41,docked_bike,casual,2,1,weekday,winter,14,Ashland Ave & Lake St,1099,Damen Ave & Grand Ave,1083
+6353,34E3362018C63CF2,docked_bike,casual,2,1,weekday,winter,20,Calumet Ave & 21st St,1087,Morgan St & Polk St,1079
+6378,230592E8DBC1A5F1,docked_bike,casual,16,1,weekday,winter,8,Ashland Ave & Belle Plaine Ave,1078,Throop (Loomis) St & Taylor St,1074
+6491,5841819D1E8AFF6C,docked_bike,casual,27,1,weekday,winter,8,Damen Ave & Clybourn Ave,1071,Ashland Ave & Belle Plaine Ave,1069
+6521,19031B2B119F9600,docked_bike,casual,2,1,weekday,winter,20,Throop (Loomis) St & Taylor St,1065,Racine Ave & Randolph St,1048
+6522,AFA54A90920679B5,docked_bike,casual,1,1,weekday,winter,21,Spaulding Ave & Armitage Ave,1052,Sheridan Rd & Noyes St (NU),1038
+6540,33BD858B04290DC1,docked_bike,casual,21,1,weekday,winter,22,LaSalle St & Adams St,1038,Wabash Ave & Cermak Rd,1035
+6553,67F583992C801C99,docked_bike,casual,3,1,weekday,winter,18,Damen Ave & Grand Ave,1014,Woodlawn Ave & Lake Park Ave,1018
+6575,BFC454C07BE0D447,docked_bike,casual,27,1,weekday,winter,20,Damen Ave & Cullerton St,1007,Damen Ave & Leland Ave,1018
+6578,17B3C12A445B2D10,docked_bike,casual,17,1,weekday,winter,9,State St & 33rd St,1005,Clark St & Ida B Wells Dr,998
+6587,425814CA81CA8D3C,docked_bike,casual,4,1,weekend,winter,2,Wells St & 19th St,1004,State St & 33rd St,982
+6604,DB90980E4B49811F,docked_bike,casual,20,1,weekday,winter,9,Wolcott Ave & Polk St,1002,Drake Ave & Fullerton Ave,970
+6606,D09704E4A59A330D,docked_bike,casual,17,1,weekday,winter,14,Sheridan Rd & Noyes St (NU),995,Canal St & Monroe St,968
+6612,E37270E2E4626268,docked_bike,casual,7,1,weekday,winter,13,California Ave & Fletcher St,991,Wells St & 19th St,967
+6648,C1A35FDB57ABFA5B,docked_bike,casual,10,1,weekday,winter,19,Kosciuszko Park,987,Chicago Ave & Dempster St,958
+6677,4628A3A325C48190,docked_bike,casual,31,1,weekday,winter,10,Woodlawn Ave & Lake Park Ave,976,Lincoln Ave & Addison St,944
+6680,B2E786F1E7BDAC00,docked_bike,casual,6,1,weekday,winter,6,Western Ave & Congress Pkwy,974,Clinton St & Jackson Blvd,939
+6709,B0DB4517EFCF9E36,docked_bike,casual,17,1,weekday,winter,11,Eastlake Ter & Rogers Ave,948,Winchester Ave & Elston Ave,933
+6729,1FB44294F4F25F33,docked_bike,casual,5,1,weekend,winter,14,Clark St & Elmdale Ave,948,LaSalle St & Adams St,930
+6743,BE1DB87F56D692DA,docked_bike,casual,22,1,weekday,winter,15,Chicago Ave & Dempster St,942,Clark St & Elmdale Ave,922
+6757,A70559246BAA7612,docked_bike,casual,13,1,weekday,winter,8,Calumet Ave & 33rd St,925,Paulina St & Flournoy St,915
+6796,DE079F365EBB2773,docked_bike,casual,4,1,weekend,winter,13,Wood St & Hubbard St,916,Eastlake Ter & Rogers Ave,914
+6798,1C50E7172B29501C,docked_bike,casual,8,1,weekday,winter,17,Indiana Ave & 31st St,908,Western Ave & Congress Pkwy,909
+6812,A0D774843317D4CC,docked_bike,casual,28,1,weekday,winter,18,Lincoln Ave & Addison St,898,Damen Ave & Melrose Ave,901
+6823,7A04C4F1DD684FCE,docked_bike,casual,2,1,weekday,winter,15,Drake Ave & Fullerton Ave,896,Leavitt St & Lawrence Ave,898
+6827,F2C1EDF2CAD0776A,docked_bike,casual,7,1,weekday,winter,8,California Ave & Byron St,896,Indiana Ave & 31st St,894
+6828,DDE05188153DD6D0,docked_bike,casual,2,1,weekday,winter,9,Indiana Ave & 26th St,890,Wood St & Chicago Ave,893
+6830,C947C187498BD0B7,docked_bike,casual,26,1,weekend,winter,19,Leavitt St & Lawrence Ave,889,Francisco Ave & Foster Ave,891
+6865,05A3B95D4377B36C,docked_bike,casual,10,1,weekday,winter,19,Damen Ave & Sunnyside Ave,888,Calumet Ave & 33rd St,890
+6889,6D753D00AFF680EF,docked_bike,casual,18,1,weekend,winter,11,Wabash Ave & Cermak Rd,887,University Library (NU),883
+6892,59BD1DDC25919D9D,docked_bike,casual,31,1,weekday,winter,13,Wood St & Chicago Ave,882,Richmond St & Diversey Ave,880
+6910,91B87DABA5E6DB8A,docked_bike,casual,4,1,weekend,winter,14,Paulina St & Montrose Ave,880,Washtenaw Ave & Lawrence Ave,878
+6963,5BBC03A3E86C25AB,docked_bike,casual,17,1,weekday,winter,8,Washtenaw Ave & Lawrence Ave,877,California Ave & Byron St,876
+6974,AFDFDDFA3E236E4F,docked_bike,casual,3,1,weekday,winter,18,Winchester Ave & Elston Ave,874,Cottage Grove Ave & 51st St,869
+6988,8C94CEB61E0F699F,docked_bike,casual,28,1,weekday,winter,19,Cottage Grove Ave & 51st St,866,Wood St & Hubbard St,863
+6993,A924BBC07DCC8996,docked_bike,casual,5,1,weekend,winter,19,University Library (NU),857,Western Ave & Roscoe St,862
+7000,5DE7EFE49D4BE72C,docked_bike,casual,22,1,weekday,winter,19,Francisco Ave & Foster Ave,856,Indiana Ave & 26th St,859
+7018,BE717776C360E6BF,docked_bike,casual,26,1,weekend,winter,16,MLK Jr Dr & Pershing Rd,851,MLK Jr Dr & Pershing Rd,847
+7034,8B47F31F9DFBEE53,docked_bike,casual,16,1,weekday,winter,18,McCormick Place,850,Avers Ave & Belmont Ave,844
+7035,ECC6315E9F01EDA1,docked_bike,casual,12,1,weekend,winter,10,Damen Ave & Melrose Ave,849,Ellis Ave & 58th St,830
+7050,D4EC44410F0127A8,docked_bike,casual,17,1,weekday,winter,8,Lincoln Ave & Winona St,830,Western Ave & Monroe St,818
+7051,3300B0BA8C8CFFFB,docked_bike,casual,28,1,weekday,winter,8,Canal St & Jackson Blvd,820,Morgan Ave & 14th Pl,817
+7060,6975B28E0955C7AF,docked_bike,casual,3,1,weekday,winter,12,Laflin St & Cullerton St,816,Leavitt St & Belmont Ave,808
+7094,E0C9E0A91D0DC940,docked_bike,casual,28,1,weekday,winter,19,Greenview Ave & Jarvis Ave,814,Paulina St & Montrose Ave,796
+7159,837B8E4ECB776138,docked_bike,casual,25,1,weekend,winter,15,Richmond St & Diversey Ave,813,Wolcott Ave & Polk St,793
+7183,F46886ACF05A28BE,docked_bike,casual,1,1,weekday,winter,15,Ellis Ave & 58th St,812,Cottage Grove Ave & 47th St,789
+7185,DF4EC43DA0EE57BE,docked_bike,casual,7,1,weekday,winter,12,Halsted St & Roosevelt Rd,807,MLK Jr Dr & 47th St,785
+7217,6B4C6092DA76A4E4,docked_bike,casual,30,1,weekday,winter,21,Avers Ave & Belmont Ave,797,Laflin St & Cullerton St,775
+7231,F6A7A8AD6318A073,docked_bike,casual,14,1,weekday,winter,20,Southport Ave & Clark St,779,Damen Ave & Sunnyside Ave,773
+7256,7ED7F8D775E98AE0,docked_bike,casual,15,1,weekday,winter,6,Central Park Ave & Elbridge Ave,776,Emerald Ave & 31st St,768
+7269,6A41775F50F783F8,docked_bike,casual,26,1,weekend,winter,10,Halsted St & Polk St,774,Burling St & Diversey Pkwy,767
+7295,C575B299BEDF16E7,docked_bike,casual,2,1,weekday,winter,14,Clark St & Schreiber Ave,774,Clark St & Schreiber Ave,766
+7304,FB9D007DE39557C1,docked_bike,casual,5,1,weekend,winter,10,Burling St & Diversey Pkwy,772,Damen Ave & Madison St,752
+7347,00A1943565C7306C,docked_bike,casual,10,1,weekday,winter,8,Cottage Grove Ave & 47th St,766,Morgan St & 31st St,752
+7353,186A739BB4B60C22,docked_bike,casual,15,1,weekday,winter,18,MLK Jr Dr & 47th St,765,May St & Cullerton St,750
+7393,84D2AFA81579E41D,docked_bike,casual,14,1,weekday,winter,15,Spaulding Ave & Division St,758,Halsted St & 18th St,740
+7394,14DDF998F2DF118E,docked_bike,casual,28,1,weekday,winter,9,Morgan Ave & 14th Pl,756,Halsted St & Polk St,731
+7395,E330D7CF4FA4E9BE,docked_bike,casual,26,1,weekend,winter,17,Leavitt St & Belmont Ave,755,Lincoln Ave & Winona St,728
+7396,D49FC9C5FF9BB4EC,docked_bike,casual,20,1,weekday,winter,14,Oakley Ave & Irving Park Rd,754,Oakley Ave & Irving Park Rd,723
+7403,ED8FE054D37BAB3D,docked_bike,casual,2,1,weekday,winter,7,Western Ave & Roscoe St,751,Canal St & Jackson Blvd,723
+7404,75B79B6BCCFB5933,docked_bike,casual,26,1,weekend,winter,12,Emerald Ave & 31st St,748,Greenview Ave & Jarvis Ave,723
+7464,E08C9DB277792B85,docked_bike,casual,30,1,weekday,winter,17,Halsted St & 18th St,727,Spaulding Ave & Division St,722
+7489,7DE1C96D98F0A902,docked_bike,casual,18,1,weekend,winter,11,Western Ave & Monroe St,712,Elston Ave & Wabansia Ave,720
+7520,1C2A00E9A9DD39ED,docked_bike,casual,15,1,weekday,winter,17,Kimball Ave & Belmont Ave,708,Talman Ave & Addison St,719
+7529,4062CD7F927A2BCC,docked_bike,casual,7,1,weekday,winter,11,Morgan St & 31st St,707,McCormick Place,708
+7533,651C959936BA3227,docked_bike,casual,15,1,weekday,winter,17,Clinton St & Tilden St,704,Racine Ave & Washington Blvd,706
+7552,8EE20A6E2627A27E,docked_bike,casual,20,1,weekday,winter,12,Kedzie Ave & Leland Ave,698,Southport Ave & Clark St,706
+7586,B125A6275EABA6C7,docked_bike,casual,22,1,weekday,winter,17,Damen Ave & Madison St,697,Kimball Ave & Belmont Ave,704
+7596,D5F3927FB2B481F2,docked_bike,casual,15,1,weekday,winter,9,Talman Ave & Addison St,695,Clinton St & Tilden St,703
+7630,C3CE03879F588762,docked_bike,casual,1,1,weekday,winter,13,Elston Ave & Wabansia Ave,695,Central Park Ave & Elbridge Ave,697
+7638,2DFC8F171BFAD1AE,docked_bike,casual,4,1,weekend,winter,7,Jeffery Blvd & 67th St,682,Halsted St & Roosevelt Rd,696
+7645,699355C4207DBFA0,docked_bike,casual,12,1,weekend,winter,14,May St & Cullerton St,682,Central Park Ave & North Ave,692
+7646,D9863F06D650351C,docked_bike,casual,12,1,weekend,winter,11,Cottage Grove Ave & 43rd St,677,Cottage Grove Ave & 43rd St,674
+7647,EB88A709EDEBDAE9,docked_bike,casual,12,1,weekend,winter,15,Racine Ave & Washington Blvd,674,Warren Park West,670
+7648,16609E41FF92A9EE,docked_bike,casual,12,1,weekend,winter,17,State St & 35th St,665,Kedzie Ave & Leland Ave,667
+7663,D46E2D7E12101205,docked_bike,casual,17,1,weekday,winter,8,Warren Park West,664,Keystone Ave & Fullerton Ave,663
+7676,1D287B959186E7A3,docked_bike,casual,17,1,weekday,winter,10,Prairie Ave & 43rd St,663,Jeffery Blvd & 67th St,662
+7702,FBBCB6F7D20226C0,docked_bike,casual,29,1,weekday,winter,16,Clinton St & 18th St,661,Troy St & Elston Ave,653
+7704,9AF85DDE6AA2F958,docked_bike,casual,2,1,weekday,winter,15,Rockwell St & Eastwood Ave,647,Ravenswood Ave & Berteau Ave,652
+7729,756E404DFE5EF6C3,docked_bike,casual,14,1,weekday,winter,14,Troy St & Elston Ave,642,Prairie Ave & 43rd St,649
+7740,E299475C4EFEC37A,docked_bike,casual,4,1,weekend,winter,19,Hermitage Ave & Polk St,625,Clinton St & 18th St,646
+7744,44275056BE0052C4,docked_bike,casual,9,1,weekday,winter,15,Harper Ave & 59th St,611,Albany Ave & Montrose Ave,645
+7768,AD54527149C996F9,docked_bike,casual,26,1,weekend,winter,17,Ravenswood Ave & Berteau Ave,611,State St & 35th St,627
+7789,E197ABB0048423A8,docked_bike,casual,5,1,weekend,winter,12,Kedzie Ave & Foster Ave,610,Christiana Ave & Lawrence Ave,622
+7790,5FE64510A32DC1C9,docked_bike,casual,14,1,weekday,winter,8,Albany Ave & Montrose Ave,605,Dorchester Ave & 63rd St,600
+7793,63068F0D638FEED2,docked_bike,casual,2,1,weekday,winter,12,Christiana Ave & Lawrence Ave,601,Wentworth Ave & 24th St (Temp),598
+7794,206BCDCF6B7E0E87,docked_bike,casual,5,1,weekend,winter,18,Dorchester Ave & 63rd St,599,Leavitt St & Addison St,595
+7823,34B76DC1923B7F97,docked_bike,casual,4,1,weekend,winter,14,Claremont Ave & Hirsch St,594,Western Ave & Granville Ave,593
+7831,8672A84A572EE9DE,docked_bike,casual,13,1,weekday,winter,13,Leavitt St & Addison St,591,Sawyer Ave & Irving Park Rd,586
+7837,429E58E5C24DC6D2,docked_bike,casual,7,1,weekday,winter,18,Keystone Ave & Fullerton Ave,584,Keystone Ave & Montrose Ave,581
+7879,5B13A14A631983D9,docked_bike,casual,5,1,weekend,winter,14,Western Ave & Fillmore St,581,Rockwell St & Eastwood Ave,577
+7882,E64B33872CE0E002,docked_bike,casual,30,1,weekday,winter,12,Leavitt St & Division St,579,Harper Ave & 59th St,576
+7947,E088619866B79A93,docked_bike,casual,6,1,weekday,winter,17,Canal St & Harrison St,576,Claremont Ave & Hirsch St,576
+7956,F58618CE1BCE36F5,docked_bike,casual,28,1,weekday,winter,15,Campbell Ave & Montrose Ave,574,Ashland Ave & 13th St,575
+7966,74E6FCD236792966,docked_bike,casual,20,1,weekday,winter,16,Western Ave & Granville Ave,572,Kedzie Ave & Foster Ave,563
+7986,AC4E3CF4388B71ED,docked_bike,casual,7,1,weekday,winter,15,Calumet Ave & 35th St,571,Calumet Ave & 51st St,556
+7987,5EC0BAA717525B34,docked_bike,casual,8,1,weekday,winter,21,Keystone Ave & Montrose Ave,571,Evanston Civic Center,552
+8002,74DA3C945A52DD17,docked_bike,casual,26,1,weekend,winter,10,Central Park Ave & North Ave,570,Calumet Ave & 35th St,548
+8022,A47792B9CEEFEF7C,docked_bike,casual,5,1,weekend,winter,14,Wentworth Ave & 24th St (Temp),570,Campbell Ave & Montrose Ave,547
+8034,4FC4437B29C9BF1B,docked_bike,casual,5,1,weekend,winter,17,Sawyer Ave & Irving Park Rd,565,Western Ave & Fillmore St,529
+8065,AFBD8ED3199D1543,docked_bike,casual,20,1,weekday,winter,17,Calumet Ave & 51st St,554,Clark St & Columbia Ave,528
+8074,F312D98894A7CC3A,docked_bike,casual,29,1,weekday,winter,8,Evanston Civic Center,552,Emerald Ave & 28th St,524
+8118,274BCF6A86B82399,docked_bike,casual,20,1,weekday,winter,8,Racine Ave & Congress Pkwy,549,Budlong Woods Library,524
+8144,9B307A4C01DE90C5,docked_bike,casual,1,1,weekday,winter,3,Racine Ave & 15th St,544,New St & Illinois St,523
+8172,049561ECBA29B1B0,docked_bike,casual,6,1,weekday,winter,23,Glenwood Ave & Touhy Ave,537,Warren Park East,522
+8177,F1B132241E27DBA0,docked_bike,casual,9,1,weekday,winter,22,St. Louis Ave & Balmoral Ave,533,St. Louis Ave & Balmoral Ave,506
+8182,123243C1C2972A8F,docked_bike,casual,3,1,weekday,winter,13,Emerald Ave & 28th St,530,Canal St & Harrison St,505
