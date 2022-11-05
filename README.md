@@ -96,7 +96,7 @@ Para responder as perguntas de negócio, após a coleta dos dados, foi realizado
  - Comparando os Casuais entre a semana e fim de semana, cerca de 27% ou 200 mil usam durante a semana.
  - Verão e Outono são as estações mais frequentadas por Casuais e Membros Anuais.
  - No inverno os usuários casuais representam 0,61% do total de 100% dividido por estações e tipo de usuário, parece pouco, mas são 20.000 viagens.
- ----------
+ 
  - Principais insights do relatório dos lugares mais frequentados por casuais:
    - A principal estação do ano é o inverno.
    - O principal foco é ir patinar no gelo.
